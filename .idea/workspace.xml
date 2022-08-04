@@ -26,7 +26,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29fLZkjfgzbILHtPYlme6ErPhLB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,9 +39,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Cavalos">
-    <configuration name="Cavalos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicios.Cavalos" />
+  <component name="RunManager" selected="Application.CarroNovo">
+    <configuration name="CarroNovo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.CarroNovo" />
       <module name="ExBasicosJava" />
       <extension name="coverage">
         <pattern>
@@ -51,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conjunto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicios.Conjunto" />
+    <configuration name="Circulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.Circulo" />
       <module name="ExBasicosJava" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parede" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicios.Parede" />
+    <configuration name="Horario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.Horario" />
       <module name="ExBasicosJava" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Salarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicios.Salarios" />
+    <configuration name="NumPrimo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.NumPrimo" />
       <module name="ExBasicosJava" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Volume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicios.Volume" />
+    <configuration name="ValorRepetido" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.ValorRepetido" />
       <module name="ExBasicosJava" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Cavalos" />
-        <item itemvalue="Application.Volume" />
-        <item itemvalue="Application.Parede" />
-        <item itemvalue="Application.Salarios" />
-        <item itemvalue="Application.Conjunto" />
+        <item itemvalue="Application.CarroNovo" />
+        <item itemvalue="Application.ValorRepetido" />
+        <item itemvalue="Application.Circulo" />
+        <item itemvalue="Application.Horario" />
+        <item itemvalue="Application.NumPrimo" />
       </list>
     </recent_temporary>
   </component>
